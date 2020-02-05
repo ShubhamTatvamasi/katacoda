@@ -2,7 +2,6 @@
   "noindex": true,
   "title": "demo",
   "description": "demo",
-  "difficulty": "Beginner",
   "environment": {
     "uilayout": "terminal-v1",
     "hideintro": true,
@@ -10,6 +9,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running:1.16"
+    "imageid": "kubernetes-cluster-running"
   }
 }
