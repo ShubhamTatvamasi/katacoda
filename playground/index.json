@@ -1,7 +1,5 @@
 {
-  "noindex": true,
-  "title": "demo",
-  "description": "demo",
+  "title": "playground",
   "environment": {
     "uilayout": "terminal-v1",
     "hideintro": true,
