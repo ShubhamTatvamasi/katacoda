@@ -18,10 +18,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-iframe"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running",
-    "port": "8080"
+    "imageid": "kubernetes-cluster"
   }
 }
