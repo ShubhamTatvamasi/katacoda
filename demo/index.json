@@ -10,6 +10,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running:1.17"
+    "imageid": "kubernetes-cluster-running"
   }
 }
