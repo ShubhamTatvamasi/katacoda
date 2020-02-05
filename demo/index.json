@@ -5,7 +5,8 @@
   "difficulty": "Beginner",
   "environment": {
     "uilayout": "terminal",
-    "hideintro": false
+    "hideintro": true,
+    "hidefinish": true
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
