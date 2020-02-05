@@ -6,7 +6,8 @@
   "environment": {
     "uilayout": "terminal",
     "hideintro": true,
-    "hidefinish": true
+    "hidefinish": true,
+    "hidesidebar": true
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
