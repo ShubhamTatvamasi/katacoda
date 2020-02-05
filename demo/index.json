@@ -4,7 +4,8 @@
   "description": "demo",
   "difficulty": "Beginner",
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "hideintro": false
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
