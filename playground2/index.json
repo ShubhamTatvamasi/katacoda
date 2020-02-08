@@ -1,7 +1,7 @@
 {
   "title": "playground2",
   "environment": {
-    "uilayout": "terminal-terminal-v1",
+    "uilayout": "terminal-v1",
     "hideintro": true,
     "hidefinish": true,
     "hidesidebar": true
