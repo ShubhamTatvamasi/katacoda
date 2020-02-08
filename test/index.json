@@ -1,27 +1,12 @@
 {
   "title": "test",
-  "description": "test",
-  "difficulty": "Beginner",
-  "time": "60 minutes",
-  "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
-  },
   "environment": {
-    "uilayout": "terminal-terminal-v1"
+    "uilayout": "terminal-v1",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-6node-running",
-    "port": 8080
+    "imageid": "kubernetes-cluster-4node-running"
   }
 }
