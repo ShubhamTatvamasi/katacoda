@@ -21,7 +21,7 @@
     "uilayout": "terminal-terminal-v1"
   },
   "backend": {
-    "imageid": "kubernetes-cluster-4node-running",
+    "imageid": "kubernetes-cluster-6node-running",
     "port": 8080
   }
 }
