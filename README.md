@@ -2,7 +2,7 @@
 
 https://katacoda.com/shubhamtatvamasi
 
-### Kubernetes Playground
+### Kubernetes Cluster
 Nodes | Online Playground
 --- | --- 
 2 | https://katacoda.com/embed/shubhamtatvamasi/playground/
