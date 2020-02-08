@@ -2,6 +2,10 @@
 
 https://katacoda.com/shubhamtatvamasi
 
-https://katacoda.com/embed/shubhamtatvamasi/playground/
+---
 
-https://katacoda.com/embed/shubhamtatvamasi/playground2/
+### Kubernetes Playground
+Nodes | Playground Links
+--- | --- 
+2 | https://katacoda.com/embed/shubhamtatvamasi/playground/
+4 | https://katacoda.com/embed/shubhamtatvamasi/playground2/
