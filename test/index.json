@@ -1,12 +1,12 @@
 {
   "title": "test",
   "environment": {
-    "uilayout": "terminal-v1",
+    "uilayout": "terminal-terminal-v1",
     "hideintro": true,
     "hidefinish": true,
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-4node-running"
+    "imageid": "kubernetes-cluster-running"
   }
 }
