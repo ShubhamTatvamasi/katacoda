@@ -2,9 +2,9 @@
 
 https://katacoda.com/shubhamtatvamasi
 
-### Kubernetes Cluster
+### Kubernetes Clusters:
 Nodes | Online Playground
 --- | --- 
 2 | https://katacoda.com/embed/shubhamtatvamasi/playground/
 4 | https://katacoda.com/embed/shubhamtatvamasi/playground2/
-> 4 Nodes cluster takes more time to load
+> 4 Nodes cluster takes more time to setup
