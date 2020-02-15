@@ -1,0 +1,12 @@
+{
+  "title": "kubeadm",
+  "environment": {
+    "uilayout": "terminal-v1",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster"
+  }
+}
