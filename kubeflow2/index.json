@@ -1,0 +1,12 @@
+{
+  "title": "kubeflow2",
+  "environment": {
+    "uilayout": "terminal-v1",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeflow-4node"
+  }
+}
