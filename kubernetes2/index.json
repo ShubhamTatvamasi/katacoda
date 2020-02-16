@@ -1,5 +1,5 @@
 {
-  "title": "playground",
+  "title": "kubernetes2",
   "environment": {
     "uilayout": "terminal-v1",
     "hideintro": true,
@@ -7,6 +7,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running"
+    "imageid": "kubernetes-cluster-4node-running"
   }
 }
