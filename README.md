@@ -2,7 +2,7 @@
 
 https://katacoda.com/shubhamtatvamasi
 
-### Online Playground Clusters:
+### Online Playgrounds:
 OS |Nodes | Terminal
 --- | --- | ---
 Ubuntu | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu/
