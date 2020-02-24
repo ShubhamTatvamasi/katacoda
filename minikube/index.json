@@ -1,0 +1,12 @@
+{
+  "title": "minikube",
+  "environment": {
+    "uilayout": "terminal-v1",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
+  },
+  "backend": {
+    "imageid": "minikube-running"
+  }
+}
