@@ -5,14 +5,14 @@ https://katacoda.com/shubhamtatvamasi
 ### Online Playgrounds:
 OS |Nodes | Terminal
 --- | --- | ---
-Ubuntu | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu/
-Kubernetes | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes/
+Ubuntu | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu
+Kubernetes | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes
 **Extra**
-Minikube | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/minikube/
-Kubernetes | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes1/
-Test | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/test/
-Kubeflow | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeflow/
-Kubeadm | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeadm/
-Kubeadm | 4 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeadm2/
-Kubernetes | 4 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes2/
+Minikube | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/minikube
+Kubernetes | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes1
+Test | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/test
+Kubeflow | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeflow
+Kubeadm | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeadm
+Kubeadm | 4 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeadm2
+Kubernetes | 4 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes2
 > 4 Nodes cluster takes more time to setup
