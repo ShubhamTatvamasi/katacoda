@@ -1,6 +1,6 @@
 {
   "title": "coreos",
-  "description": "coreos",
+  "time": "60 minutes",
   "environment": {
     "uilayout": "terminal-v1",
     "hideintro": true,
