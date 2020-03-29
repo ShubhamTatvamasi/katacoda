@@ -8,10 +8,10 @@ OS |Nodes | Terminal
 Kubernetes | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes
 **Extra**
 Ubuntu 18.04 | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu18
-Ubuntu 18.04 | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/bash
+Ubuntu 16.04 | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu16
 Test | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/test
 CoreOS | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/coreos
-Bash | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu16
+Bash | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/bash
 Minikube | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/minikube
 Kubernetes | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes1
 Kubeflow | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubeflow
