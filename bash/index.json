@@ -4,7 +4,10 @@
   "difficulty": "Beginner",
   "time": "60 minutes",
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
   },
   "backend": {
     "imageid": "bash"
