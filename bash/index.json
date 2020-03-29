@@ -1,6 +1,5 @@
 {
   "title": "bash",
-  "difficulty": "Beginner",
   "time": "60 minutes",
   "environment": {
     "uilayout": "terminal-v1",
