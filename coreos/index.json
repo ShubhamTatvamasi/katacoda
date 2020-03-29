@@ -1,5 +1,6 @@
 {
   "title": "coreos",
+  "description": "coreos",
   "environment": {
     "uilayout": "terminal-v1",
     "hideintro": true,
