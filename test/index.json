@@ -2,7 +2,7 @@
   "title": "test",
   "details": { "steps": [ { "text": "step1.md" } ] },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-terminal",
     "hideintro": true,
     "hidefinish": true,
     "hidesidebar": true
