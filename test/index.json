@@ -1,0 +1,13 @@
+{
+  "title": "test",
+  "details": { "steps": [ { "text": "step1.md" } ] },
+  "environment": {
+    "uilayout": "terminal",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running"
+  }
+}

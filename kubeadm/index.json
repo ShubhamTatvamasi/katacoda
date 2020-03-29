@@ -1,6 +1,6 @@
 {
-  "title": "bash",
-  "description": "bash",
+  "title": "kubeadm",
+  "description": "kubeadm",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -24,6 +24,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "kubernetes-cluster"
   }
 }

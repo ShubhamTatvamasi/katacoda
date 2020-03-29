@@ -1,7 +1,7 @@
 {
   "title": "coreos",
   "description": "coreos",
-  "difficulty": "Advanced",
+  "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
@@ -18,7 +18,10 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
   },
   "backend": {
     "imageid": "coreos"

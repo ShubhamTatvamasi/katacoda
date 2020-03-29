@@ -1,6 +1,6 @@
 {
-  "title": "bash",
-  "description": "bash",
+  "title": "kubernetes2",
+  "description": "kubernetes2",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -24,6 +24,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "kubernetes-cluster-4node-running"
   }
 }
