@@ -1,5 +1,5 @@
 {
-  "title": "kubernetes2",
+  "title": "kubeadm2",
   "details": { "steps": [ { "text": "step1.md" } ] },
   "environment": {
     "uilayout": "terminal",
@@ -8,6 +8,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-4node-running"
+    "imageid": "kubernetes-cluster-4node"
   }
 }
