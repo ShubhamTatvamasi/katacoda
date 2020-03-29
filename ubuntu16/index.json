@@ -1,5 +1,6 @@
 {
-  "title": "ubuntu",
+  "title": "ubuntu16",
+  "time": "100 hours",
   "environment": {
     "uilayout": "terminal-v1",
     "hideintro": true,
@@ -7,6 +8,6 @@
     "hidesidebar": true
   },
   "backend": {
-    "imageid": "ubuntu1804"
+    "imageid": "ubuntu"
   }
 }
