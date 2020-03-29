@@ -1,10 +1,9 @@
 {
   "title": "bash",
-  "description": "bash",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-v1",
     "hideintro": true,
     "hidefinish": true,
     "hidesidebar": true
