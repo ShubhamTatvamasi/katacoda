@@ -1,0 +1,13 @@
+{
+  "title": "jupyterhub",
+  "details": { "steps": [ { "text": "step1.md" } ] },
+  "environment": {
+    "uilayout": "terminal",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true
+  },
+  "backend": {
+    "imageid": "jupyterhub"
+  }
+}

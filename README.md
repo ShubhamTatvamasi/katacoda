@@ -11,6 +11,7 @@ Ubuntu 18.04 | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu18
 Ubuntu 16.04 | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/ubuntu16
 Test | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/test
 CoreOS | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/coreos
+JupyterHub | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/jupyterhub
 Bash | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/bash
 Minikube | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/minikube
 Kubernetes | 1 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes1
