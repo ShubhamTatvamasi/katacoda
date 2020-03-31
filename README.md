@@ -3,7 +3,7 @@
 https://katacoda.com/shubhamtatvamasi
 
 ### Online Playgrounds:
-OS |Nodes | Terminal
+Image |Nodes | Terminal
 --- | --- | ---
 Kubernetes | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes
 **Extra**
