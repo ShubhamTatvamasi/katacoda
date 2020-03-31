@@ -5,9 +5,7 @@
     "uilayout": "terminal",
     "hideintro": true,
     "hidefinish": true,
-    "hidesidebar": true,
-    "showdashboard": true,
-    "dashboards": [{"name": "TensorFlow", "port": 8888}]
+    "hidesidebar": true
   },
   "backend": {
     "imageid": "tensorflow"
