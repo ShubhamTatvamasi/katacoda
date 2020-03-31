@@ -1,0 +1,15 @@
+{
+  "title": "tensorflow",
+  "details": { "steps": [ { "text": "step1.md" } ] },
+  "environment": {
+    "uilayout": "terminal",
+    "hideintro": true,
+    "hidefinish": true,
+    "hidesidebar": true,
+    "showdashboard": true,
+    "dashboards": [{"name": "TensorFlow", "port": 8888}]
+  },
+  "backend": {
+    "imageid": "tensorflow"
+  }
+}
