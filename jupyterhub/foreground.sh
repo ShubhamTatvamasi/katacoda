@@ -1,5 +1,4 @@
 #!/bin/bash
-: '
-Username: scrapbook
-Password: scrapbook
-'
+
+# Username: scrapbook
+# Password: scrapbook
