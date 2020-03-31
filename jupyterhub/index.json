@@ -5,7 +5,9 @@
     "uilayout": "terminal",
     "hideintro": true,
     "hidefinish": true,
-    "hidesidebar": true
+    "hidesidebar": true,
+    "showdashboard": true,
+    "dashboards": [{"name": "JupyterHub", "port": 8000}]
   },
   "backend": {
     "imageid": "jupyterhub"
