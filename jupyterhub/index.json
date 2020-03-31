@@ -1,6 +1,17 @@
 {
   "title": "jupyterhub",
-  "details": { "steps": [ { "text": "step1.md" } ] },
+  "details": { 
+    "steps": [ 
+      { 
+        "text": "step1.md" 
+      }
+    ],
+    "intro": {
+        "text": "intro.md",
+        "courseData": "background.sh",
+        "code": "foreground.sh"
+    }
+  },
   "environment": {
     "uilayout": "terminal",
     "hideintro": true,
