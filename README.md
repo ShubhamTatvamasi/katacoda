@@ -31,5 +31,6 @@ Docker | 1 | https://shubhamtatvamasi.com/katacoda
 Ubuntu 18.04 | 1 | https://shubhamtatvamasi.com/katacoda/ubuntu18
 Minikube | 1 | https://shubhamtatvamasi.com/katacoda/minikube
 CoreOS | 1 | https://shubhamtatvamasi.com/katacoda/coreos
+CentOS | 1 | https://shubhamtatvamasi.com/katacoda/centos
 Kubeflow | 2 | https://shubhamtatvamasi.com/katacoda/kubeflow
 
