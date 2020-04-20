@@ -3,7 +3,7 @@
 https://katacoda.com/shubhamtatvamasi
 
 ### Online Playgrounds:
-Image |Nodes | Terminal
+Image | Nodes | Terminal
 --- | --- | ---
 Kubernetes | 2 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes
 **Extra**
@@ -25,7 +25,7 @@ Kubernetes | 4 | https://katacoda.com/shubhamtatvamasi/scenarios/kubernetes2
 ---
 
 ### Test:
-Image |Nodes | Terminal
+Image | Nodes | Terminal
 --- | --- | ---
 Docker | 1 | https://shubhamtatvamasi.com/katacoda
 Ubuntu 18.04 | 1 | https://shubhamtatvamasi.com/katacoda/ubuntu18
