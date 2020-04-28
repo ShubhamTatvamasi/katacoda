@@ -24,6 +24,13 @@ echo "scrapbook:scrapbook" | chpasswd
 
 ---
 
+for deleting katacoda logo, run this in web console
+```html
+document.getElementById("terminal-inline-poweredby").remove();
+```
+
+---
+
 https://katacoda.com/shubhamtatvamasi
 
 ### Online Playgrounds:
