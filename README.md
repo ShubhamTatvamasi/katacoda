@@ -3,6 +3,8 @@
 ### Embedded Playgrounds:
 Image | Nodes | Terminal
 --- | --- | ---
+Kubernetes | 4 | https://shubhamtatvamasi.com/katacoda/kubernetes
+**Extra**
 Docker | 1 | https://shubhamtatvamasi.com/katacoda
 Ubuntu 18.04 | 1 | https://shubhamtatvamasi.com/katacoda/ubuntu18
 Minikube | 1 | https://shubhamtatvamasi.com/katacoda/minikube
@@ -10,7 +12,6 @@ JupyterHub | 1 | https://shubhamtatvamasi.com/katacoda/jupyterhub
 CoreOS | 1 | https://shubhamtatvamasi.com/katacoda/coreos
 CentOS | 1 | https://shubhamtatvamasi.com/katacoda/centos
 Kubeflow | 2 | https://shubhamtatvamasi.com/katacoda/kubeflow
-Kubernetes | 4 | https://shubhamtatvamasi.com/katacoda/kubernetes
 StorageOS | 4 | https://shubhamtatvamasi.com/katacoda/storageos
 
 ---
