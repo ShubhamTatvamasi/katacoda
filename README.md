@@ -34,4 +34,5 @@ JupyterHub | 1 | https://shubhamtatvamasi.com/katacoda/jupyterhub
 CoreOS | 1 | https://shubhamtatvamasi.com/katacoda/coreos
 CentOS | 1 | https://shubhamtatvamasi.com/katacoda/centos
 Kubeflow | 2 | https://shubhamtatvamasi.com/katacoda/kubeflow
+StorageOS | 4 | https://shubhamtatvamasi.com/katacoda/storageos
 
