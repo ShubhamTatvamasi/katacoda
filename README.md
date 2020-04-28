@@ -16,9 +16,11 @@ StorageOS | 4 | https://shubhamtatvamasi.com/katacoda/storageos
 
 #### Setup Environment
 
-Image | Port | Command
---- | --- | ---
-JupyterHub | 8000 | echo "scrapbook:scrapbook" | chpasswd
+JupyterHub | Port: 8000 
+```bash
+echo "scrapbook:scrapbook" | chpasswd
+```
+> this will set username & password to: scrapbook
 
 ---
 
