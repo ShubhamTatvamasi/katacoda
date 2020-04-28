@@ -14,6 +14,12 @@ CentOS | 1 | https://shubhamtatvamasi.com/katacoda/centos
 Kubeflow | 2 | https://shubhamtatvamasi.com/katacoda/kubeflow
 StorageOS | 4 | https://shubhamtatvamasi.com/katacoda/storageos
 
+#### Setup Environment
+
+Image | Port | Command
+--- | --- | ---
+JupyterHub | 8000 | echo "scrapbook:scrapbook" | chpasswd
+
 ---
 
 https://katacoda.com/shubhamtatvamasi
