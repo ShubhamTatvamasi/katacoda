@@ -42,7 +42,7 @@ Minikube | 1 | https://katacoda.com/embed/minikube
 JupyterHub | 1 | https://katacoda.com/embed/jupyterhub
 CoreOS | 1 | https://katacoda.com/embed/coreos
 CentOS | 1 | https://katacoda.com/embed/centos
-Kubeflow | 2 | https://katacoda.com/embed/kubeflow
+Kubeflow | 2 | https://katacoda.com/embed/kubernetes-kubeflow
 
 ---
 
