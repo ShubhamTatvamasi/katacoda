@@ -1,6 +1,6 @@
 # katacoda
 
-### Embedded Playgrounds:
+### Custom Embedded Playgrounds:
 Image | Nodes | Terminal
 --- | --- | ---
 Kubernetes | 4 | https://shubhamtatvamasi.com/katacoda/kubernetes
@@ -28,6 +28,21 @@ for deleting katacoda logo, run this in web console
 ```html
 document.getElementById("terminal-inline-poweredby").remove();
 ```
+
+---
+
+### Embedded Playgrounds:
+Image | Nodes | Terminal
+--- | --- | ---
+Kubernetes | 4 | https://katacoda.com/embed/storageos-kubernetes-3node
+**Extra**
+Docker | 1 | https://katacoda.com/embed/docker
+Ubuntu 18.04 | 1 | https://katacoda.com/embed/ubuntu1804
+Minikube | 1 | https://katacoda.com/embed/minikube
+JupyterHub | 1 | https://katacoda.com/embed/jupyterhub
+CoreOS | 1 | https://katacoda.com/embed/coreos
+CentOS | 1 | https://katacoda.com/embed/centos
+Kubeflow | 2 | https://katacoda.com/embed/kubeflow
 
 ---
 
