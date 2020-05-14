@@ -15,6 +15,8 @@ Kubeflow | 2 | https://katacoda.com/embed/kubernetes-kubeflow
 
 #### Setup Environment
 
+Kubeflow | Port: 31380
+
 JupyterHub | Port: 8000 
 ```bash
 echo "scrapbook:scrapbook" | chpasswd
