@@ -7,6 +7,7 @@ Kubernetes | 4 | https://katacoda.com/embed/storageos-kubernetes-3node
 **Extra**
 Docker | 1 | https://katacoda.com/embed/docker
 Ubuntu 18.04 | 1 | https://katacoda.com/embed/ubuntu1804
+Ubuntu 20.04 | 1 | https://katacoda.com/embed/ubuntu:2004
 Minikube | 1 | https://katacoda.com/embed/minikube-running
 JupyterHub | 1 | https://katacoda.com/embed/jupyterhub
 CoreOS | 1 | https://katacoda.com/embed/coreos
