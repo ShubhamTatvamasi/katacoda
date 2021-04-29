@@ -13,6 +13,7 @@ JupyterHub | 1 | https://katacoda.com/embed/jupyterhub
 CoreOS | 1 | https://katacoda.com/embed/coreos
 CentOS | 1 | https://katacoda.com/embed/centos
 Kubeflow | 2 | https://katacoda.com/embed/kubernetes-kubeflow
+Kubernetes | 2 | https://katacoda.com/embed/kubernetes-cluster:1.18
 
 #### Setup Environment
 
